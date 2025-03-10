@@ -1,0 +1,15 @@
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\obj\Debug\net8.0\tpModul4_103022330070(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\obj\Debug\net8.0\tpModul4_103022330070(2).AssemblyInfoInputs.cache
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\obj\Debug\net8.0\tpModul4_103022330070(2).AssemblyInfo.cs
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\obj\Debug\net8.0\tpModul4_103022330070(2).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\obj\Debug\net8.0\tpModul4_103022330070(2).sourcelink.json
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\bin\Debug\net8.0\tpModul4_103022330070(2).exe
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\bin\Debug\net8.0\tpModul4_103022330070(2).deps.json
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\bin\Debug\net8.0\tpModul4_103022330070(2).runtimeconfig.json
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\bin\Debug\net8.0\tpModul4_103022330070(2).dll
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\bin\Debug\net8.0\tpModul4_103022330070(2).pdb
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\obj\Debug\net8.0\tpModul4_103022330070(2).dll
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\obj\Debug\net8.0\refint\tpModul4_103022330070(2).dll
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\obj\Debug\net8.0\tpModul4_103022330070(2).pdb
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\obj\Debug\net8.0\tpModul4_103022330070(2).genruntimeconfig.cache
+C:\Users\ASUS\visualStudio_source\repos\tpModul4_103022330070(2)\tpModul4_103022330070(2)\obj\Debug\net8.0\ref\tpModul4_103022330070(2).dll
